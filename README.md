@@ -1,7 +1,7 @@
 # CS2400 Project 0: Git Ready
 
-<p>Name: <strong>bold text</strong>Lance Taningco<br>
-GitHub Repo Link: <strong>bold text</strong><br>
-<p>Screencast video link: <strong>bold text</strong><br>
-<p>Screencast software: <strong>bold text</strong>LOOM
-IDE: VSCode</p>
+<p><strong>Name: </strong>Lance Taningco<be>
+<p><strong>GitHub Repo Link: </strong><br>
+<p><strong>Screencast video link: </strong><br>
+<p><strong>Screencast software: </strong>LOOM
+<strong>IDE: </strong>VSCode</p>
